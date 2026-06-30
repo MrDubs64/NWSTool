@@ -35,17 +35,17 @@ properties
 ## User Interface
 
 ### Main Menu
-![Main Menu](images/menu.png)
+![Main Menu](menu.png)
 - Load NWS files
 - Edit existing files
 - Play/Stop playback
 - Convert between audio formats
 
 ### Editor
-![Waveform Editor](images/editor-waveform.png)
+![Waveform Editor](editor-waveform.png)
 Visual waveform editing with loop point controls and wave shape generators.
 
-![Raw Data Editor](images/editor-list.png)
+![Raw Data Editor](editor-list.png)
 Switch to list view for precise editing of individual sample values.
 
 ## Getting Started
